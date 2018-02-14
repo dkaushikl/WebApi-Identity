@@ -155,7 +155,7 @@ namespace Identity.Controllers
                 Subject = "Forgot Password",
                 Body =
                     "<table><tr>Hi  " + user.Email +
-                    ",</tr><tr><br/><br/>Please reset your password by clicking <a href = 'https://" + Request.Scheme + "/Account/ResetPassword?userid=" + user.Id + "&code=" + code + "'> here</a>.<br/><br/>Gam3z Inc.<br/>Registration Team</table>"
+                    ",</tr><tr><br/><br/>Please reset your password by clicking <a href = 'https://" + Request.Scheme + "/Account/ResetPassword?userid=" + user.Id + "&code=" + code + "'> here</a>.<br/><br/><br/>Registration Team</table>"
             };
             Utility.SendMail(oMailModel);
             return Json("success");
