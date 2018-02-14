@@ -1,0 +1,11 @@
+c:\users\elaunch\source\repos\Identity\Identity\obj\Debug\netcoreapp2.0\Identity.csprojResolveAssemblyReference.cache
+c:\users\elaunch\source\repos\Identity\Identity\obj\Debug\netcoreapp2.0\Identity.csproj.CoreCompileInputs.cache
+c:\users\elaunch\source\repos\Identity\Identity\obj\Debug\netcoreapp2.0\Identity.AssemblyInfoInputs.cache
+c:\users\elaunch\source\repos\Identity\Identity\obj\Debug\netcoreapp2.0\Identity.AssemblyInfo.cs
+c:\users\elaunch\source\repos\Identity\Identity\bin\Debug\netcoreapp2.0\Identity.deps.json
+c:\users\elaunch\source\repos\Identity\Identity\bin\Debug\netcoreapp2.0\Identity.runtimeconfig.json
+c:\users\elaunch\source\repos\Identity\Identity\bin\Debug\netcoreapp2.0\Identity.runtimeconfig.dev.json
+c:\users\elaunch\source\repos\Identity\Identity\bin\Debug\netcoreapp2.0\Identity.dll
+c:\users\elaunch\source\repos\Identity\Identity\bin\Debug\netcoreapp2.0\Identity.pdb
+c:\users\elaunch\source\repos\Identity\Identity\obj\Debug\netcoreapp2.0\Identity.dll
+c:\users\elaunch\source\repos\Identity\Identity\obj\Debug\netcoreapp2.0\Identity.pdb
